@@ -2,4 +2,6 @@ Hola esto es una prueba
 de archivo para Git en wsl
 desde Platzi.
 Continuamos agregando mas informacion para ver 
-mas cambios
+mas cambios.
+
+Hoy editamos el archivo.
