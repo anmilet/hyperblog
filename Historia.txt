@@ -1,3 +1,1 @@
-Hola estas es la historia de prueba del uso de git
-Aqui estare validando varios comandos
-que he estado aprendiendo en el curso ofrecido por Platzi
+cambios de una sola linea
