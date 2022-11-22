@@ -48,3 +48,8 @@ body
     background: white;
     padding: 1em;
 }
+#footer{
+    background: rgb(131, 129, 129);
+    color: white;
+    text-align: center;
+}
