@@ -1,4 +1,4 @@
-# Hyperblog 
+# README Hyperblog 
 Un blog creado durante el curso de git y github
 
 Aprendieremos a usar **Git**, el control de versiones por excelencia más usado en el mundo de la tecnológica y gestionar los proyectos desde nuestros repositorios locales y en **GitHub**.
